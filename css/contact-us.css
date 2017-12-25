@@ -1,0 +1,39 @@
+*{
+	font-family: Tahoma, Arial, Verdana;
+}
+.contact-us{
+	padding: 20px 0;
+}
+.menu-contact li{
+	font-size: 15px;
+	padding: 5px 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.menu-contact a{
+	text-decoration: none; 
+	color: #008546;
+}
+#active{
+	color: red;
+ }
+
+ .contat-item{
+	padding-bottom: 5px;
+	border-bottom: 1px dashed #333;
+ }
+
+ .contat-item h5 a{
+ 	color: #008546;
+ 	text-decoration: none;
+ 	font-family: Tahoma, Arial, Verdana;
+ 	font-size: 18px;
+ }
+ .contat-item h5 a:hover{
+ 	color: #48b95f;
+ }
+ .contat-item p{
+ 	font-size: 15px;
+ 	color: #3b362f;
+ }
+

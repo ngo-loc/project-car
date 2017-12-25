@@ -1,0 +1,14 @@
+
+.slider{
+	padding: 40px 0;
+	background: url( https://www.ocar.vn/style/frontend/default/images/backgrounds/pageHead.jpg) center;
+    background-size: cover;
+}
+.text-ranger{
+	
+	padding: 0 10px;
+	color: #444;
+	font-size: 23px;
+	border-left: 2px solid red;
+	border-right: 2px solid red; 
+}
